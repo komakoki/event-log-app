@@ -21,9 +21,4 @@ class LiveInfo extends Model
         'description',
     ];
 
-    // 日付型として扱う属性（Carbonで操作可能）
-    protected $dates = [
-        'date',
-        'start_time',
-    ];
 }
