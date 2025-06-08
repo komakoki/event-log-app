@@ -44,7 +44,7 @@ php artisan migrate
 php artisan serve
 
 
-API仕様
+## API仕様
 1. ライブ情報の一覧取得
 URL: /api/lives
 Method: GET
